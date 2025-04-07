@@ -1,0 +1,12 @@
+id,tx_hash,sender,receiver,currency,amount
+1,5ac6,coinbase,a0324425e7,ETH,5
+2,78af,coinbase,a0324425e7,ETH,5
+3,9cb6,a0324425e7,b07c7e7df3,ETH,2
+4,9cb6,a0324425e7,d03894efe8,ETH,2
+5,04aa,a0324425e7,f076a8c8b0,ETH,3
+6,04aa,f076a8c8b0,a0324425e7,LINK,760
+7,af78,coinbase,c0acb3be5f,ETH,5
+8,9033,a0324425e7,e088c8d932,LINK,540
+9,9033,a0324425e7,e088c8d932,ETH,1
+10,acdf,d03894efe8,f076a8c8b0,ETH,1
+11,acdf,f076a8c8b0,d03894efe8,USDC,2390
