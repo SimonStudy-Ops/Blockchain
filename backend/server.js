@@ -35,7 +35,7 @@ function onServerReady() {
 }
 
 async function onGetBlockchain(request, response) {
-    const dbResult = await db.query(`select * from block`);
+    const dbResult = await db.query(`select hash, height as Height from block`);
     
     response.json(dbResult.rows);
 }
